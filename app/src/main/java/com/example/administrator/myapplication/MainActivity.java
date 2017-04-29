@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         // 我在v1.0分支上加了这条。我就是要跟v1.1冲突，就改这行
         // q我也添加这行，怎么着吧
+        // 靠靠靠！！
 
     }
 }
